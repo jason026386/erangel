@@ -13,6 +13,13 @@
 	"observability": {
 		"enabled": true
 	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "erangel",
+			"database_id": "0a52c800-d01b-43f1-9d9a-97b61619692d"
+		}
+	],
 	"env": {
 		"development": {
 		}
